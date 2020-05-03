@@ -1,6 +1,0 @@
-[install 504 error html message no response]
-ignore it and refresh(F5) page.
-
-[index start core.forum error text 乱码 mess button lang]
-php flarum cache:clear
-
