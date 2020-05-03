@@ -1,11 +1,9 @@
 .DS_Store
 Thumbs.db
 .vagrant
-config.php
 .idea
-vendor
 server
-core
 studio.json
+vendor
+config.php
 composer.lock
-
