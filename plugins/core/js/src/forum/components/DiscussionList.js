@@ -43,6 +43,7 @@ export default class DiscussionList extends Component {
     let loading;
 
     if (this.loading) {
+
       loading = LoadingIndicator.component();
     } else if (this.moreResults) {
       loading = Button.component({
